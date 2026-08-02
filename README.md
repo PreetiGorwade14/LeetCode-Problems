@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Recursion
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0877-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
