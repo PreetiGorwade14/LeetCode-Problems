@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
