@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0877-stone-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PreetiGorwade14/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
